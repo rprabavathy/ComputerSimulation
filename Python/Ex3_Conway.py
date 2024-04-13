@@ -1,4 +1,3 @@
-## Prabavathy Rajasekaran(2130757)
 ##  Sheet 1 Exercise 3 : Conway's Game of Life
 
 import argparse, random, copy, time
