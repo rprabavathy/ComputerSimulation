@@ -1,6 +1,4 @@
 % Exercise 12 Back Propgation
-%Prabavathy Rajasekaran (2130757)
-% Anjaly Kuriakose(2132537)
 
 function net = BackPropagation(net, goal, rho, alpha)
 
