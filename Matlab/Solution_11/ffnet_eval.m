@@ -1,7 +1,5 @@
 
 % Exercise 11.2 Evaluating feed-forward networks
-% Prabavathy Rajasekaran (2130757)
-% Anjaly Kuriakose(2132537)
 function net_out = ffnet_eval(netIn, inputLayer)
     net_out = netIn;
     if(length(inputLayer)~=net_out.Nneurons(1))
