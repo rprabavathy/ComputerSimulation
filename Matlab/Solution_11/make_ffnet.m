@@ -1,7 +1,5 @@
 % Exercise 11.1 Structures and cell arrays
 %The function creates and initializes a feed-forward neural network with Nlayers layers
-%Prabavathy Rajasekaran (2130757)
-% Anjaly Kuriakose(2132537)
 function net = make_ffnet(Nlayers,Nneurons,hasBiasNeuron)
   net.Nlayers = Nlayers;
   net.Nneurons = Nneurons;
