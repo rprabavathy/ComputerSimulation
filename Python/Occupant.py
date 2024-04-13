@@ -1,6 +1,4 @@
 ## Class Occupant
-## Sheet 2 Exercise 6
-## Prabavathy Rajasekaran (2130757)
 
 from Room import *
 import re 
