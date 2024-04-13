@@ -1,5 +1,9 @@
-! Sheet 4 Exercise 13 Dates Module
-! Prabavathy Rajasekaran (2130757)
+! Fortran module dates that contains the following definitions:
+! • a data type date having three components day, month, and year
+!• a logical function isLeapYear(year) that checks if year is a leap year
+!• a subroutine checkDate(d) that checks if d is a valid date; if not, d is set to a default date (01.01.1970)
+!• a subroutine incDay(d) that sets d to the next day
+!• a subroutine printDate(d) that prints a date in the format DD.MM.YYYY
 
 module dates
   implicit none
