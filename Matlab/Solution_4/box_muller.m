@@ -1,6 +1,4 @@
 %Exercise_4_2 Box Muller Transform
-%Prabavathy Rajasekaran(2130757
-% Anjaly Kuriakose(2132537)
 clear;
 clc;
 z = gaussrng(10000,0.2,4);
