@@ -1,6 +1,5 @@
 ## Class Glass
-## Sheet 2 Exercise 5
-## Prabavathy Rajasekaran (2130757)
+
                                                      
 from Glass import Glass
 
