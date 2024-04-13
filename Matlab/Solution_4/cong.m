@@ -1,6 +1,4 @@
 %Exercise 4_1
-%Prabavathy Rajasekaran(2130757
-% Anjaly Kuriakose(2132537)
 
 clear; 
 clc;
