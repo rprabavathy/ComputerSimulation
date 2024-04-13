@@ -1,5 +1,5 @@
-## Modified by Prabavathy Rajasekaran(2130757)
-##  Sheet 1 Exercise 4 : Dictionary
+##  Sheet 1 Exercise 4 : Dictionary -- That look up for words and  print its german translation
+## Insertion and deletion of entry in a dictiory -- in a interactable way
 
 import json
 
