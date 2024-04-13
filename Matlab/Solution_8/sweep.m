@@ -1,5 +1,4 @@
-%Prabavathy Rajasekaran(2130757
-% Anjaly Kuriakose(2132537)
+
 function [acc, Iam1] = sweep()
 phi = pi/4;
 Iam1 = 0;
