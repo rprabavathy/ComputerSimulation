@@ -1,6 +1,4 @@
 % Exercise 11.3 Text Recognition
-%Prabavathy Rajasekaran (2130757)
-% Anjaly Kuriakose(2132537)
 load weights
 load digits
 net = make_ffnet(3, [784 800 10], [true true false]);
