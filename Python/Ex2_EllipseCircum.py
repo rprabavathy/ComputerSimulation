@@ -1,4 +1,3 @@
-## Prabavathy Rajasekaran(2130757)
 ##  Sheet 1 Exercise 2 : Circumference of the Ellipse
 
 from math import *
