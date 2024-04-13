@@ -1,8 +1,5 @@
 %Lab Session 5 Monte-Carlo Integration
 
-%Prabavathy Rajasekaran(2130757
-% Anjaly Kuriakose(2132537)
-
 %Part 1 PLotting Integrand in 1D
 clc;
 xx= -1:0.01:1;
