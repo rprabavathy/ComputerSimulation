@@ -1,5 +1,4 @@
-! Sheet 3 Exercise 12 Power Method
-! Prabavathy Rajasekaran (2130757)
+! Fortran Program that computes the eigenvalue with largest absolute value 𝜆max of a Toeplitz matrix of size 𝑛 × 𝑛
 
 program PowerMethod
 
