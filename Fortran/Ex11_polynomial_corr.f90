@@ -1,8 +1,4 @@
-! polynomials and Newton's method
-! author:  Holger Arndt
-! version: 10.05.2022
-! framework for sheet 3, exercise 11
-! modified by Prabavathy Rajasekaran (2130757) on 11.06.2022
+! framework that can find zeros of polynomials.
 
 program main
 
