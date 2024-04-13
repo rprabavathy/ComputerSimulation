@@ -1,6 +1,4 @@
 ## Class Glass
-## Sheet 2 Exercise 5
-## Prabavathy Rajasekaran (2130757)
 
 class Glass:
     def __str__(self):
