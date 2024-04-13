@@ -1,6 +1,5 @@
- 8e% Exercise 10.1 Coupled Non Linear Diffusion
-%Prabavathy Rajasekaran (2130757)
-% Anjaly Kuriakose(2132537)
+ % Exercise 10.1 Coupled Non Linear Diffusion
+
 
 clc;
 clear all;
