@@ -1,6 +1,4 @@
 %Exercise 9 FTCS Forward-time Center Space
-%Prabavathy Rajasekaran (2130757)
-% Anjaly Kuriakose(2132537)
 
 %Initial Values
 clc;
