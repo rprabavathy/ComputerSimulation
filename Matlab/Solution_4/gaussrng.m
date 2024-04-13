@@ -1,5 +1,3 @@
-%Prabavathy Rajasekaran(2130757
-% Anjaly Kuriakose(2132537)
 function [z]= gaussrng(N,mu,sig)
 u = rng(N);
 
