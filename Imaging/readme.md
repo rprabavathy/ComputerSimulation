@@ -1,4 +1,4 @@
-## Brain Imaging Seminar I
+## Imaging Seminar I
 The seminar was meant to give an introduction into the analysis of images acquired from an unstained thin brain section using a polarimetric setup to determine the orientation of nerve fibers.
 
 ## Tasks
@@ -20,3 +20,8 @@ The seminar was meant to give an introduction into the analysis of images acquir
 
 ## References
 - publications about Polarized Light Imaging ([Axer M et al., 2011a](https://www.ncbi.nlm.nih.gov/pubmed/20832489), [Axer M et al., 2011b](https://www.ncbi.nlm.nih.gov/pubmed/22232597), and [Axer H et al. 2001](http://www.sciencedirect.com/science/article/pii/S0165027000003496));
+
+
+## Imaging Seminar II
+The Seminar was focussed on [Simulation of basic fiber Architecture toolbox](https://github.com/3d-pli/fastpli)
+- wiki: <https://github.com/3d-pli/fastpli/wiki>
