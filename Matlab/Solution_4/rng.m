@@ -1,6 +1,4 @@
 % Linear Congruential Generator − pseudo random number generator
-%Prabavathy Rajasekaran(2130757
-% Anjaly Kuriakose(2132537)
 function [z] = rng(N,seed,a,c,m)
 persistent x;
    switch nargin
