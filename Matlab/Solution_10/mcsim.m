@@ -1,6 +1,3 @@
-%Anjaly Kuriakose(2132537)
-%Prabavathy Rajasekaran(2130757)
-
 % main program for Monte-Carlo simulation of the XY model with the
 % Metropolis algorithm
 
