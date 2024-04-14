@@ -1,7 +1,7 @@
 ## Imaging Seminar I
 The seminar was meant to give an introduction into the analysis of images acquired from an unstained thin brain section using a polarimetric setup to determine the orientation of nerve fibers.
 
-## Tasks
+##  Insights 
 - characteristics of the images (e.g., size, bit depth, image type, data type) from the given data set
 - fitting function that describes the intensity course
 - Analysis of Images based on signals computed using Fourier transform and plotted its coresponding transmittance, direction, retardation)
